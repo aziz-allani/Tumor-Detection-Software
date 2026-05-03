@@ -10,8 +10,11 @@ The system classifies MRI scans into four categories:
 - No tumor
 
 <p align="center">
-  <img src="https://github.com/aziz-allani/Tumor-Detection-Software/blob/main/static/demo/demo.gif?raw=true" alt="Tumor Detection Demo" />
+  <div style="display:inline-block; border:2px solid #ddd; padding:8px; border-radius:10px;">
+    <img src="https://github.com/aziz-allani/Tumor-Detection-Software/blob/main/static/demo/demo.gif?raw=true" alt="Tumor Detection Demo" />
+  </div>
 </p>
+
 ---
 
 ## 🎯 Key Features
