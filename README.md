@@ -10,7 +10,7 @@ The system classifies MRI scans into four categories:
 - No tumor
 
 
-![Tumor Detection Demo](demo/demo.gif)
+![Tumor Detection Demo](static/demo/demo.gif)
 ---
 
 ## 🎯 Key Features
