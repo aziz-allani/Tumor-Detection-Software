@@ -1,6 +1,5 @@
 # 🧠 Tumor Detection Software using Deep Learning (CNN + Django)
 
-## 📌 Overview
 This project is an AI-powered web application for brain tumor detection from MRI images.  
 It uses a Convolutional Neural Network (CNN) trained on medical imaging data and is deployed using Django to provide real-time predictions through a web interface.
 
@@ -10,6 +9,8 @@ The system classifies MRI scans into four categories:
 - Pituitary tumor
 - No tumor
 
+
+![Tumor Detection Demo](demo/demo.gif)
 ---
 
 ## 🎯 Key Features
