@@ -1,0 +1,21 @@
+{% load tagger %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload and Predict</title>
+</head>
+<body>
+    <h1>Upload an Image for Tumor Detection</h1>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Upload and Predict</button>
+    </form>
+
+    {% if predicted_label %}
+        <h2>Prediction Result:</h2>
+        <p>Predicted Label: {{ predicted_label }}</p>
+    {% endif %}
+</body>
+</html>
