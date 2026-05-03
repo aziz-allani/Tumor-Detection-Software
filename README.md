@@ -9,8 +9,9 @@ The system classifies MRI scans into four categories:
 - Pituitary tumor
 - No tumor
 
-
-![Tumor Detection Demo](static/demo/demo.gif)
+<p align="center">
+  <img src="https://github.com/aziz-allani/Tumor-Detection-Software/blob/main/static/demo/demo.gif?raw=true" alt="Tumor Detection Demo" />
+</p>
 ---
 
 ## 🎯 Key Features
